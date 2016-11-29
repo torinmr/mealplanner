@@ -1,18 +1,18 @@
 [
     {
         "servings": 2,
-        "day": 1,
-        "name": "Quesadilla"
+        "name": "Enchiladas",
+        "day": 2
     },
     {
         "servings": 2,
-        "day": 2,
-        "name": "Quesadilla"
+        "name": "Tuna salad",
+        "day": 4
     },
     {
         "servings": 2,
-        "day": 2,
-        "name": "Salad"
+        "name": "Salad",
+        "day": 5
     }
 ]
 

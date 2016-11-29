@@ -3,8 +3,8 @@
     "ingredients_per_serving": [
       {
         "name": "Shredded cheese",
-        "amount": 0.5,
-        "unit": "cup"
+        "amount": 2,
+        "unit": "ounce"
       },
       {
         "name": "Flour tortilla",
@@ -53,6 +53,132 @@
       {
         "name": "Balsamic vinegar",
         "amount": 0.25,
+        "unit": "ounce"
+      }
+    ]
+  },
+  "Tuna salad": {
+    "ingredients_per_serving": [
+      {
+        "name": "Canned tuna",
+        "amount": 0.5,
+        "unit": "can"
+      },
+      {
+        "name": "Canned vegetables",
+        "amount": 0.5,
+        "unit": "can"
+      },
+      {
+        "name": "Mayonnaise",
+        "amount": 1,
+        "unit": "ounce"
+      },
+      {
+        "name": "Tostada",
+        "amount": 3,
+        "unit": "count"
+      }
+    ]
+  },
+  "Bean tostada": {
+    "ingredients_per_serving": [
+      {
+        "name": "Dried beans",
+        "amount": 0.25,
+        "unit": "pound"
+      },
+      {
+        "name": "Vegetable oil",
+        "amount": 1,
+        "unit": "ounce"
+      },
+      {
+        "name": "Tostada",
+        "amount": 3,
+        "unit": "count"
+      },
+      {
+        "name": "Tapatio",
+        "amount": 1,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "Sour cream",
+        "amount": 2,
+        "unit": "ounce"
+      },
+      {
+        "name": "Shredded cheese",
+        "amount": 0.75,
+        "unit": "ounce"
+      }
+    ]
+  },
+  "Enchiladas": {
+    "ingredients_per_serving": [
+      {
+        "name": "Enchilada sauce",
+        "amount": 0.5,
+        "unit": "can"
+      },
+      {
+        "name": "Cumin",
+        "amount": 0.5,
+        "unit": "teaspoon"
+      },
+      {
+        "name": "Flour",
+        "amount": 0.5,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "Garlic",
+        "amount": 0.5,
+        "unit": "clove"
+      },
+      {
+        "name": "Corn tortillas",
+        "amount": 6,
+        "unit": "count"
+      },
+      {
+        "name": "Chicken, boneless",
+        "amount": 6,
+        "unit": "ounce"
+      },
+      {
+        "name": "Shredded cheese",
+        "amount": 3,
+        "unit": "ounce"
+      },
+      {
+        "name": "Vegetable oil",
+        "amount": 1,
+        "unit": "ounce"
+      },
+      {
+        "name": "Tapatio",
+        "amount": 1,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "Sour cream",
+        "amount": 1,
+        "unit": "ounce"
+      }
+    ]
+  },
+  "Beans": {
+    "ingredients_per_serving": [
+      {
+        "name": "Dried beans",
+        "amount": 0.125,
+        "unit": "pound"
+      },
+      {
+        "name": "Vegetable oil",
+        "amount": 1,
         "unit": "ounce"
       }
     ]

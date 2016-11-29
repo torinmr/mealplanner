@@ -28,5 +28,44 @@
   },
   "Balsamic vinegar": {
     "freshness": 180
+  },
+  "Canned tuna": {
+    "freshness": 720
+  },
+  "Canned vegetables": {
+    "freshness": 365
+  },
+  "Mayonnaise": {
+    "freshness": 90
+  },
+  "Tostada": {
+    "freshness": 30
+  },
+  "Dried beans": {
+    "freshness": 365
+  },
+  "Tapatio": {
+    "freshness": 90
+  },
+  "Enchilada sauce": {
+    "freshness": 90
+  },
+  "Cumin": {
+    "freshness": 365
+  },
+  "Flour": {
+    "freshness": 365
+  },
+  "Garlic": {
+    "freshness": 7
+  },
+  "Corn tortillas": {
+    "freshness": 30
+  },
+  "Chicken, boneless": {
+    "freshness": 2
+  },
+  "Vegetable oil": {
+    "freshness": 365
   }
 }

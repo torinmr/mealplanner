@@ -1,0 +1,32 @@
+{
+  "Shredded cheese": {
+    "freshness": 90
+  },
+  "Flour tortilla": {
+    "freshness": 30
+  },
+  "Lunch meat": {
+    "freshness": 15
+  },
+  "TJ's salsa": {
+    "freshness": 180
+  },
+  "Sour cream": {
+    "freshness": 15
+  },
+  "Salad mix": {
+    "freshness": 4
+  },
+  "Pumpkin seeds": {
+    "freshness": 90
+  },
+  "Parmesan": {
+    "freshness": 30
+  },
+  "Truffle oil": {
+    "freshness": 180
+  },
+  "Balsamic vinegar": {
+    "freshness": 180
+  }
+}

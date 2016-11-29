@@ -1,0 +1,60 @@
+{
+  "Quesadilla": {
+    "ingredients_per_serving": [
+      {
+        "name": "Shredded cheese",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "Flour tortilla",
+        "amount": 2,
+        "unit": "count"
+      },
+      {
+        "name": "Lunch meat",
+        "amount": 1,
+        "unit": "ounce"
+      },
+      {
+        "name": "TJ's salsa",
+        "amount": 2,
+        "unit": "ounce"
+      },
+      {
+        "name": "Sour cream",
+        "amount": 1,
+        "unit": "ounce"
+      }
+    ]
+  },
+  "Salad": {
+    "ingredients_per_serving": [
+      {
+        "name": "Salad mix",
+        "amount": 1.25,
+        "unit": "ounce"
+      },
+      {
+        "name": "Pumpkin seeds",
+        "amount": 1,
+        "unit": "tablespoon"
+      },
+      {
+        "name": "Parmesan",
+        "amount": 0.5,
+        "unit": "ounce"
+      },
+      {
+        "name": "Truffle oil",
+        "amount": 0.5,
+        "unit": "ounce"
+      },
+      {
+        "name": "Balsamic vinegar",
+        "amount": 0.25,
+        "unit": "ounce"
+      }
+    ]
+  }
+}
